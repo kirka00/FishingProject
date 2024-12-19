@@ -1,0 +1,14 @@
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/bin/Debug/net8.0/ItProjectsTest
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/bin/Debug/net8.0/ItProjectsTest.deps.json
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/bin/Debug/net8.0/ItProjectsTest.runtimeconfig.json
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/bin/Debug/net8.0/ItProjectsTest.dll
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/bin/Debug/net8.0/ItProjectsTest.pdb
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ItProjectsTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ItProjectsTest.AssemblyInfoInputs.cache
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ItProjectsTest.AssemblyInfo.cs
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ItProjectsTest.csproj.CoreCompileInputs.cache
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ItProjectsTest.dll
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/refint/ItProjectsTest.dll
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ItProjectsTest.pdb
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ItProjectsTest.genruntimeconfig.cache
+/Users/kirka/Downloads/ItProjectsTest/ItProjectsTest/obj/Debug/net8.0/ref/ItProjectsTest.dll
